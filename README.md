@@ -10,6 +10,7 @@ If you have any questions or wish to discuss potential collaborations, please fe
 
 [**Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles**](https://github.com/x1akexu/x1akexu.github.io/blob/main/3660781.pdf)  
 Weigang He, Peng Di, **Mengli Ming**, Chengyu Zhang, Ting Su, Shijie Li, and Yulei Sui 
+
 In Proceedings of [FSE 2024](https://2024.esec-fse.org/track/fse-2024-research-papers).
 
 **Highlights:** This work has identified 38 unique defects in the [Clang Static Analyzer](https://clang-analyzer.llvm.org), the [GCC Static Analyzer](https://gcc.gnu.org/wiki/StaticAnalyzer), and the [Pinpoint](https://www.sourcebrella.com).
