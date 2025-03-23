@@ -1,8 +1,8 @@
-I am currently pursuing my Master's degree at [East China Normal University](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6) (2022–2025) under the supervision of Professor [Ting Su](https://dblp.org/pid/42/6896-1.html). I received my Bachelor's degree from [Yantai University](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6) (2017-2021). 
+[I](https://github.com/itranquility) am currently pursuing my Master's degree at [East China Normal University](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6) (2022–2025) under the supervision of Professor [Ting Su](https://dblp.org/pid/42/6896-1.html). I received my Bachelor's degree from [Yantai University](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6) (2017-2021). 
 
 My primary research interests lie in static analysis. I am currently working on static analysis for the [HarmonyOS NEXT](https://consumer.huawei.com/cn/harmonyos-next) [App](https://developer.huawei.com/consumer/cn/doc/guidebook/harmonyecoapp-guidebook-0000001761818040) within the [ark compiler runtime core](OpenHarmony/arkcompiler_runtime_core) at the **Huawei**’s 2012 Lab (Trusted Theory, Technology, and Engineering Laboratory), starting in October 2024.
 
-If you have any questions or wish to discuss potential collaborations, please feel free to contact me via email: [work.ml-ming@outlook.com](mailto:work.ml-ming@outlook.com) :-D
+If you have any questions or wish to discuss potential collaborations, please feel free to contact me via email: [hack42@yeah.net](mailto:hack42@yeah.net) :-D
 
 ---
 
